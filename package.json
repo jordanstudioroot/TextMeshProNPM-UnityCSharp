@@ -1,1 +1,1 @@
-{"name":"textmeshpronpm-unitycsharp","version":"1.0.0","files":["Assets/textmeshpronpm-unitycsharp","scripts"],"scripts":{"postinstall":"node scripts/postinstall.js textmeshpronpm-unitycsharp"},"dependencies":{"ncp":"^2.0.0","mkdirp":"^0.5.1"}}
+{"name":"textmeshpronpm-unitycsharp","version":"1.0.0","files":["Assets/textmeshpronpm-unitycsharp","scripts","Assets/textmeshpronpm-unitycsharp","Assets/textmeshpronpm-unitycsharp"],"scripts":{"postinstall":"node scripts/postinstall.js textmeshpronpm-unitycsharp"},"dependencies":{"ncp":"^2.0.0","mkdirp":"^0.5.1"}}
